@@ -1,3 +1,4 @@
+This read me file is literally AI generated
 # 🐢 Turtle Graphics - Mega Grid of Colorful Squares
 
 Welcome to the **Turtle Graphics** project! This fun and interactive program uses Python's turtle graphics module to draw a stunning grid of colorful squares. Dive in and watch the turtle create beautiful patterns right before your eyes! 🌈✨
