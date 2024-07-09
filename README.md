@@ -112,9 +112,6 @@ Here's a sneak peek of what the final output might look like:
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests. Let's make this project even more awesome together!
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
